@@ -1,0 +1,92 @@
+[
+  {
+    year: 2022,
+    make: "Acura",
+    model: "MDX",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "Chevrolet",
+    model: "Bolt EV",
+    body_styles: ["Hatchback"],
+  },
+  {
+    year: 2022,
+    make: "Chevrolet",
+    model: "Equinox",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "Chevrolet",
+    model: "Traverse",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "GMC",
+    model: "Hummer EV",
+    body_styles: ["Pickup"],
+  },
+  {
+    year: 2022,
+    make: "Honda",
+    model: "Civic",
+    body_styles: ["Sedan"],
+  },
+  {
+    year: 2022,
+    make: "Hyundai",
+    model: "Tucson",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "Jeep",
+    model: "Grand Wagoneer",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "Kia",
+    model: "Sorento",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "Mercedes-Benz",
+    model: "C-Class",
+    body_styles: ["Coupe"],
+  },
+  {
+    year: 2022,
+    make: "Mitsubishi",
+    model: "Eclipse Cross",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "Nissan",
+    model: "Frontier Crew Cab",
+    body_styles: ["Pickup"],
+  },
+  {
+    year: 2022,
+    make: "Nissan",
+    model: "Pathfinder",
+    body_styles: ["SUV"],
+  },
+  {
+    year: 2022,
+    make: "Subaru",
+    model: "BRZ",
+    body_styles: ["Coupe"],
+  },
+  {
+    year: 2022,
+    make: "Volkswagen",
+    model: "Tiguan",
+    body_styles: ["SUV"],
+  },
+];
